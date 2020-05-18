@@ -2,5 +2,5 @@
 
 ## TODO: Use framework better equipped for this; Add authentication and authorization
 
-* Run ```javascript  npm install```.
+* Run ```npm install```.
 * Ensure mongodb is running if developing locally. Alternatively configure mongodb url as an environmental variable
